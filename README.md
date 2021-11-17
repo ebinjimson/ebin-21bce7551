@@ -1,6 +1,6 @@
 # Name :  Ebin Jimson-21BCE7551
 #### Task status :
-- [ ] Day 1 HTML Introduction - HTML Attributes
+- [x] Day 1 HTML Introduction - HTML Attributes
 - [ ] Day 2 HTML Headings - HTML CSS
 - [ ] Day 3 HTML Links - HTML Lists
 - [ ] Day 4 HTML Block & Inline - HTML Responsive
